@@ -1,0 +1,19 @@
+padrões:
+
+	Fontes:
+
+		[Mestre] Fonte: 'Roboto', sans-serif;
+
+		[1] Fonte: 'Lobster', cursive;
+	
+	Cores: 
+  
+		Rosa: #FF2978;
+
+		Azul: #180F4A;
+
+		cinza;
+
+		Gradiente: #180F4A, #090422, black;
+
+-----------------------------------------------------------------------
