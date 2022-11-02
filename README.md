@@ -1,5 +1,7 @@
 # Agencia Fake
 
+⚠️ Responsividade ainda em desenvolvimento
+
 Foi desenvolvido com o propósito de por em pratica conhecimentos de <br>
 HTML e CSS puro.
 
