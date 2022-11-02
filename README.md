@@ -21,7 +21,7 @@ Não foi desenvolvido conforme o passo a passo,<br>
 o projeto foi realizado conforme imagens tiradas da pagina e com formatações separada em um bloco de notas,<br>
 onde apenas foi utilizado o desingn retirado do video. <br><br>
 
-## segue abaico alguns padrões de formatação
+## segue abaixo alguns padrões de formatação
 
 
 	Fontes:
